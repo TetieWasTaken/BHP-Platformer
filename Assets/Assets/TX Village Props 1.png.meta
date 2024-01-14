@@ -1,0 +1,6459 @@
+fileFormatVersion: 2
+guid: b8e680dae2f094f449481573b2f9370d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TX Village Props Crate Large
+  - first:
+      213: 21300002
+    second: TX Village Props Crate Small
+  - first:
+      213: 21300004
+    second: TX Village Props Chest Wooden
+  - first:
+      213: 21300006
+    second: TX Village Props Chest Iron
+  - first:
+      213: 21300008
+    second: TX Village Props Barrel
+  - first:
+      213: 21300010
+    second: TX Village Props Pot A
+  - first:
+      213: 21300012
+    second: TX Village Props Pot B
+  - first:
+      213: 21300014
+    second: TX Village Props Pot C
+  - first:
+      213: 21300016
+    second: TX Village Props Road Lamp
+  - first:
+      213: 21300018
+    second: TX Village Props Road Lamp Light Off
+  - first:
+      213: 21300020
+    second: TX Village Props Road Lamp Light On
+  - first:
+      213: 21300022
+    second: TX Village Props Torch
+  - first:
+      213: 21300024
+    second: TX Village Props Fence A Pillar A
+  - first:
+      213: 21300026
+    second: TX Village Props Fence A Pillar B
+  - first:
+      213: 21300028
+    second: TX Village Props Fence A Pillar C
+  - first:
+      213: 21300030
+    second: TX Village Props Fence A Rail A
+  - first:
+      213: 21300032
+    second: TX Village Props Fence A Rail B
+  - first:
+      213: 21300034
+    second: TX Village Props Fence A Rail C
+  - first:
+      213: 21300036
+    second: TX Village Props Fence A Nail
+  - first:
+      213: 21300038
+    second: TX Village Props Fence B Pillar
+  - first:
+      213: 21300040
+    second: TX Village Props Fence B Rail
+  - first:
+      213: 21300042
+    second: TX Village Props Road Sign A
+  - first:
+      213: 21300044
+    second: TX Village Props Road Sign B
+  - first:
+      213: 21300046
+    second: TX Village Props Road Sign Text A
+  - first:
+      213: 21300048
+    second: TX Village Props Road Sign Text B
+  - first:
+      213: 21300050
+    second: TX Village Props Road Sign Text C
+  - first:
+      213: 21300052
+    second: TX Village Props Billboard
+  - first:
+      213: 21300054
+    second: TX Village Props Billboard Noti A
+  - first:
+      213: 21300056
+    second: TX Village Props Billboard Noti D
+  - first:
+      213: 21300058
+    second: TX Village Props Billboard Noti B
+  - first:
+      213: 21300060
+    second: TX Village Props Billboard Noti C
+  - first:
+      213: 21300062
+    second: TX Village Props Stump
+  - first:
+      213: 21300064
+    second: TX Village Props Axe
+  - first:
+      213: 21300066
+    second: TX Village Props Well
+  - first:
+      213: 21300068
+    second: TX Village Props Bucket
+  - first:
+      213: 21300070
+    second: TX Village Props Ladder T
+  - first:
+      213: 21300072
+    second: TX Village Props Ladder M
+  - first:
+      213: 21300074
+    second: TX Village Props Ladder B
+  - first:
+      213: 21300076
+    second: TX Village Props Hay Bale
+  - first:
+      213: 21300078
+    second: TX Village Props Hay Pile
+  - first:
+      213: 21300080
+    second: TX Village Props Hay Fork
+  - first:
+      213: 21300082
+    second: TX Village Props Scarecrow
+  - first:
+      213: 21300084
+    second: TX Village Props Anvil
+  - first:
+      213: 21300086
+    second: TX Village Props Gravestone A
+  - first:
+      213: 21300088
+    second: TX Village Props Gravestone B
+  - first:
+      213: 21300090
+    second: TX Village Props Gravestone C
+  - first:
+      213: 21300092
+    second: TX Village Props Gravestone D
+  - first:
+      213: 21300094
+    second: TX Village Props Grass A
+  - first:
+      213: 21300096
+    second: TX Village Props Grass B
+  - first:
+      213: 21300098
+    second: TX Village Props Grass C
+  - first:
+      213: 21300100
+    second: TX Village Props Flower A
+  - first:
+      213: 21300102
+    second: TX Village Props Grass D
+  - first:
+      213: 21300104
+    second: TX Village Props Grass E
+  - first:
+      213: 21300106
+    second: TX Village Props Grass F
+  - first:
+      213: 21300108
+    second: TX Village Props Flower B
+  - first:
+      213: 21300110
+    second: TX Village Props Bush A
+  - first:
+      213: 21300112
+    second: TX Village Props Bush B
+  - first:
+      213: 21300114
+    second: TX Village Props Bush C
+  - first:
+      213: 21300116
+    second: TX Village Props Wheelbarrow
+  - first:
+      213: 21300118
+    second: TX Village Props Wheelbarrow Wheel
+  - first:
+      213: 21300120
+    second: TX Village Props Tree A
+  - first:
+      213: 21300122
+    second: TX Village Props Banner Pillar
+  - first:
+      213: 21300124
+    second: TX Village Props Banner
+  - first:
+      213: 21300126
+    second: TX Village Props Wood Logs
+  - first:
+      213: 21300128
+    second: TX Village Props Campfire
+  - first:
+      213: 21300130
+    second: TX Village Props Gunny Bag A
+  - first:
+      213: 21300132
+    second: TX Village Props Gunny Bag B
+  - first:
+      213: 21300134
+    second: TX Village Props Rock A
+  - first:
+      213: 21300136
+    second: TX Village Props Rock B
+  - first:
+      213: 21300138
+    second: TX Village Props Rock C
+  - first:
+      213: 21300140
+    second: TX Village Props Wheat A
+  - first:
+      213: 21300142
+    second: TX Village Props Wheat B
+  - first:
+      213: 21300144
+    second: TX Village Props Wheat C
+  - first:
+      213: 21300146
+    second: TX Village Props Wheat D
+  - first:
+      213: 21300148
+    second: TX Village Props Wheat E
+  - first:
+      213: 21300150
+    second: TX Village Props Statue
+  - first:
+      213: 21300152
+    second: TX Village Props Statue Bouquet
+  - first:
+      213: 21300154
+    second: TX Village Props Archert Target
+  - first:
+      213: 21300156
+    second: TX Village Props Arrow
+  - first:
+      213: 21300158
+    second: TX Village Props Arrow Hit
+  - first:
+      213: 21300160
+    second: TX Village Props Brick Wall
+  - first:
+      213: 21300162
+    second: TX Village Props Weapon Rack
+  - first:
+      213: 21300164
+    second: TX Village Props Spear
+  - first:
+      213: 21300166
+    second: TX Village Props Sword
+  - first:
+      213: 21300168
+    second: TX Village Props Heavy Sword
+  - first:
+      213: 21300170
+    second: TX Village Props Log Bench
+  - first:
+      213: 21300172
+    second: TX Village Props Table
+  - first:
+      213: 21300174
+    second: TX Village Props Chair
+  - first:
+      213: 21300176
+    second: TX Village Props Wine Bottle
+  - first:
+      213: 21300178
+    second: TX Village Props Apple
+  - first:
+      213: 21300180
+    second: TX Village Props Cup
+  - first:
+      213: 21300182
+    second: TX Village Props Bread
+  - first:
+      213: 21300184
+    second: TX Village Props Training Dummy
+  - first:
+      213: 21300186
+    second: TX Village Props Hammer
+  - first:
+      213: 21300188
+    second: TX Village Props Stall Tent
+  - first:
+      213: 21300190
+    second: TX Village Props Stall Tent Pillar
+  - first:
+      213: 21300192
+    second: TX Village Props Hanging Bag
+  - first:
+      213: 21300194
+    second: TX Village Props Stall Table
+  - first:
+      213: 21300196
+    second: TX Village Props Basket
+  - first:
+      213: 21300198
+    second: TX Village Props Cauldron
+  - first:
+      213: 21300200
+    second: TX Village Props Grain Box
+  - first:
+      213: 21300202
+    second: TX Village Props Kettle
+  - first:
+      213: 21300204
+    second: TX Village Props White Bottle
+  - first:
+      213: 21300206
+    second: TX Village Props Stall Fruit A
+  - first:
+      213: 21300208
+    second: TX Village Props Stall Fruit B
+  - first:
+      213: 21300210
+    second: TX Village Props Stall Fruit C
+  - first:
+      213: 21300212
+    second: TX Village Props Stall Fruit D
+  - first:
+      213: 21300214
+    second: TX Village Props Barricade
+  - first:
+      213: 21300216
+    second: TX Village Props Platform S
+  - first:
+      213: 21300218
+    second: TX Village Props Platform W
+  - first:
+      213: 21300220
+    second: TX Village Props Platform L
+  - first:
+      213: 21300222
+    second: TX Village Props Platform M
+  - first:
+      213: 21300224
+    second: TX Village Props Platform R
+  - first:
+      213: 21300226
+    second: TX Village Props Tree B
+  - first:
+      213: 21300228
+    second: TX Village Props Spike
+  - first:
+      213: 21300230
+    second: TX Village Props Clother Hanger Pillar A
+  - first:
+      213: 21300232
+    second: TX Village Props Clother Hanger Pillar B
+  - first:
+      213: 21300234
+    second: TX Village Props Clother Hanger Rope A
+  - first:
+      213: 21300236
+    second: TX Village Props Cloth A
+  - first:
+      213: 21300238
+    second: TX Village Props Cloth B
+  - first:
+      213: 21300240
+    second: TX Village Props Cloth C
+  - first:
+      213: 21300242
+    second: TX Village Props Cloth D
+  - first:
+      213: 21300244
+    second: TX Village Props Clother Hanger Clip
+  - first:
+      213: 21300246
+    second: TX Village Props Clother Hanger Rope B
+  - first:
+      213: 21300248
+    second: TX Village Props Cloth E
+  - first:
+      213: 21300250
+    second: TX Village Props Cloth F
+  - first:
+      213: 21300252
+    second: TX Village Props Cloth G
+  - first:
+      213: 21300254
+    second: TX Village Props Cloth H
+  - first:
+      213: 21300256
+    second: TX Village Props Pumpkin A
+  - first:
+      213: 21300258
+    second: TX Village Props Pumpkin B
+  - first:
+      213: 21300260
+    second: TX Village Props Spike Ball
+  - first:
+      213: 21300262
+    second: TX Village Props Sunflower A
+  - first:
+      213: 21300264
+    second: TX Village Props Sunflower B
+  - first:
+      213: 21300266
+    second: TX Village Props Sunflower C
+  - first:
+      213: 21300268
+    second: TX Village Props Fire Bowl
+  - first:
+      213: -3806943691756881100
+    second: TX Village Props Platform E
+  - first:
+      213: 9202163618114184290
+    second: TX Village Props Ladder Side LT
+  - first:
+      213: 5803455356149086885
+    second: TX Village Props Ladder Side LM
+  - first:
+      213: 3325885465304735478
+    second: TX Village Props Ladder Side LB
+  - first:
+      213: -2052889030473512461
+    second: TX Village Props Ladder Side RT
+  - first:
+      213: -8353649271199622519
+    second: TX Village Props Ladder Side RM
+  - first:
+      213: -996102965649306420
+    second: TX Village Props Ladder Side RB
+  - first:
+      213: -8851566310641887263
+    second: TX Village Props Chest Silver
+  - first:
+      213: -2305204071527019509
+    second: TX Village Props Chest Golden
+  - first:
+      213: -2488354977019923846
+    second: TX Village Props 1_0
+  - first:
+      213: -3237066271253582130
+    second: TX Village Props 1_1
+  - first:
+      213: 3026671565631674011
+    second: TX Village Props 1_2
+  - first:
+      213: -665883658070362501
+    second: TX Village Props 1_3
+  - first:
+      213: -156663660304744868
+    second: TX Village Props 1_4
+  - first:
+      213: -3417913138037504662
+    second: TX Village Props 1_5
+  - first:
+      213: 8604083849133161641
+    second: TX Village Props 1_6
+  - first:
+      213: -6708052976977361099
+    second: TX Village Props 1_7
+  - first:
+      213: 6046734164472121413
+    second: TX Village Props 1_8
+  - first:
+      213: -3917655022619672137
+    second: TX Village Props 1_9
+  - first:
+      213: 3278393372908417007
+    second: TX Village Props 1_10
+  - first:
+      213: -4828059055350974970
+    second: TX Village Props 1_11
+  - first:
+      213: 3359067829700811041
+    second: TX Village Props 1_12
+  - first:
+      213: -8116131674387934461
+    second: TX Village Props 1_13
+  - first:
+      213: -1185012524315083298
+    second: TX Village Props 1_14
+  - first:
+      213: -6665716232379923006
+    second: TX Village Props 1_15
+  - first:
+      213: -1139149463347229280
+    second: TX Village Props 1_16
+  - first:
+      213: -2242747301964311554
+    second: TX Village Props 1_17
+  - first:
+      213: 620870795662561289
+    second: TX Village Props 1_18
+  - first:
+      213: -2873358197834356328
+    second: TX Village Props 1_19
+  - first:
+      213: -8474844991857933410
+    second: TX Village Props 1_20
+  - first:
+      213: -1358422910185620822
+    second: TX Village Props 1_21
+  - first:
+      213: -7468962993820904852
+    second: TX Village Props 1_22
+  - first:
+      213: -5392025051197852974
+    second: TX Village Props 1_23
+  - first:
+      213: 3511547878757706973
+    second: TX Village Props 1_24
+  - first:
+      213: -4519856340924136044
+    second: TX Village Props 1_25
+  - first:
+      213: -8232524651813798073
+    second: TX Village Props 1_26
+  - first:
+      213: 8683143950315984539
+    second: TX Village Props 1_27
+  - first:
+      213: -1527817201683967404
+    second: TX Village Props 1_28
+  - first:
+      213: -5208662185636383363
+    second: TX Village Props 1_29
+  - first:
+      213: 5170915928064371581
+    second: TX Village Props 1_30
+  - first:
+      213: -5416005047913608157
+    second: TX Village Props 1_31
+  - first:
+      213: 7203732805313177560
+    second: TX Village Props 1_32
+  - first:
+      213: -4711824629128542671
+    second: TX Village Props 1_33
+  - first:
+      213: 9082630173028017408
+    second: TX Village Props 1_34
+  - first:
+      213: 8243996621635147225
+    second: TX Village Props 1_35
+  - first:
+      213: -2290563465300055070
+    second: TX Village Props 1_36
+  - first:
+      213: -8306478783770030615
+    second: TX Village Props 1_37
+  - first:
+      213: 8910086337652455627
+    second: TX Village Props 1_38
+  - first:
+      213: -3202696679685400896
+    second: TX Village Props 1_39
+  - first:
+      213: 3209385260244866043
+    second: TX Village Props 1_40
+  - first:
+      213: -1204464552213338641
+    second: TX Village Props 1_41
+  - first:
+      213: -6838659025924498134
+    second: TX Village Props 1_42
+  - first:
+      213: -6869294355336947618
+    second: TX Village Props 1_43
+  - first:
+      213: -7439584366224849163
+    second: TX Village Props 1_44
+  - first:
+      213: 1872781186938133628
+    second: TX Village Props 1_45
+  - first:
+      213: -4758237323296697591
+    second: TX Village Props 1_46
+  - first:
+      213: 4866695361572111326
+    second: TX Village Props 1_47
+  - first:
+      213: -4126104450228893384
+    second: TX Village Props 1_48
+  - first:
+      213: 4033154776142073065
+    second: TX Village Props 1_49
+  - first:
+      213: -7566258096723103135
+    second: TX Village Props 1_50
+  - first:
+      213: -3582302353864952549
+    second: TX Village Props 1_51
+  - first:
+      213: -878425851407191519
+    second: TX Village Props 1_52
+  - first:
+      213: -8518546357431239472
+    second: TX Village Props 1_53
+  - first:
+      213: -8828033735386759436
+    second: TX Village Props 1_54
+  - first:
+      213: 5956658914707752938
+    second: TX Village Props 1_55
+  - first:
+      213: 5714975098405039555
+    second: TX Village Props 1_56
+  - first:
+      213: 258623429106593513
+    second: TX Village Props 1_57
+  - first:
+      213: 7346253864045892328
+    second: TX Village Props 1_58
+  - first:
+      213: -824228453194347739
+    second: TX Village Props 1_59
+  - first:
+      213: -1076607417139453217
+    second: TX Village Props 1_60
+  - first:
+      213: 9127316892466259915
+    second: TX Village Props 1_61
+  - first:
+      213: 2115364720064327883
+    second: TX Village Props 1_62
+  - first:
+      213: 1713768158629920646
+    second: TX Village Props 1_63
+  - first:
+      213: 2917039331930203714
+    second: TX Village Props 1_64
+  - first:
+      213: 7013394144721167387
+    second: TX Village Props 1_65
+  - first:
+      213: 6109196194430493381
+    second: TX Village Props 1_66
+  - first:
+      213: -4889885884741227099
+    second: TX Village Props 1_67
+  - first:
+      213: 5873385554596434260
+    second: TX Village Props 1_68
+  - first:
+      213: -7181375447244800421
+    second: TX Village Props 1_69
+  - first:
+      213: 9149246583005958974
+    second: TX Village Props 1_70
+  - first:
+      213: 4746443028163116729
+    second: TX Village Props 1_71
+  - first:
+      213: 9083651008062634865
+    second: TX Village Props 1_72
+  - first:
+      213: 4771509086756776359
+    second: TX Village Props 1_73
+  - first:
+      213: -1199353113898127473
+    second: TX Village Props 1_74
+  - first:
+      213: -1720713848754488470
+    second: TX Village Props 1_75
+  - first:
+      213: 3301829284802122320
+    second: TX Village Props 1_76
+  - first:
+      213: 4793729780096470247
+    second: TX Village Props 1_77
+  - first:
+      213: 7434362463356291965
+    second: TX Village Props 1_78
+  - first:
+      213: 3476361438515522697
+    second: TX Village Props 1_79
+  - first:
+      213: 5593950122655044621
+    second: TX Village Props 1_80
+  - first:
+      213: 7418148612937915976
+    second: TX Village Props 1_81
+  - first:
+      213: 4108223692846766001
+    second: TX Village Props 1_82
+  - first:
+      213: -6226232190428907592
+    second: TX Village Props 1_83
+  - first:
+      213: 1399711164349205050
+    second: TX Village Props 1_84
+  - first:
+      213: 7690085195045037247
+    second: TX Village Props 1_85
+  - first:
+      213: -5110015549818778689
+    second: TX Village Props 1_86
+  - first:
+      213: 5494036316220616643
+    second: TX Village Props 1_87
+  - first:
+      213: -4633027142038091609
+    second: TX Village Props 1_88
+  - first:
+      213: 8083654788272006574
+    second: TX Village Props 1_89
+  - first:
+      213: 993340450972352365
+    second: TX Village Props 1_90
+  - first:
+      213: -4098440367728594575
+    second: TX Village Props 1_91
+  - first:
+      213: 3846190774815564166
+    second: TX Village Props 1_92
+  - first:
+      213: -3062942449964501202
+    second: TX Village Props 1_93
+  - first:
+      213: 1522934596429149903
+    second: TX Village Props 1_94
+  - first:
+      213: -5119329859665082281
+    second: TX Village Props 1_95
+  - first:
+      213: -9149724055163626172
+    second: TX Village Props 1_96
+  - first:
+      213: 8306858763978217905
+    second: TX Village Props 1_97
+  - first:
+      213: 7445647850787885211
+    second: TX Village Props 1_98
+  - first:
+      213: -766679598020860288
+    second: TX Village Props 1_99
+  - first:
+      213: 763693389702915623
+    second: TX Village Props 1_100
+  - first:
+      213: -89599797757926303
+    second: TX Village Props 1_101
+  - first:
+      213: -224864345610598842
+    second: TX Village Props 1_102
+  - first:
+      213: 7453497751567021380
+    second: TX Village Props 1_103
+  - first:
+      213: -4391008260688688824
+    second: TX Village Props 1_104
+  - first:
+      213: -334903306197544847
+    second: TX Village Props 1_105
+  - first:
+      213: 4339915637305396942
+    second: TX Village Props 1_106
+  - first:
+      213: 1106269580800189740
+    second: TX Village Props 1_107
+  - first:
+      213: 2548754104813977606
+    second: TX Village Props 1_108
+  - first:
+      213: 7728998429282044569
+    second: TX Village Props 1_109
+  - first:
+      213: 1645361244893853280
+    second: TX Village Props 1_110
+  - first:
+      213: -3076899074786749079
+    second: TX Village Props 1_111
+  - first:
+      213: -2992851280676306994
+    second: TX Village Props 1_112
+  - first:
+      213: 2590769658359804968
+    second: TX Village Props 1_113
+  - first:
+      213: 4743001055209142234
+    second: TX Village Props 1_114
+  - first:
+      213: 8779861146132288852
+    second: TX Village Props 1_115
+  - first:
+      213: 6402956307862914546
+    second: TX Village Props 1_116
+  - first:
+      213: -4555854505365126085
+    second: TX Village Props 1_117
+  - first:
+      213: -1109197128768151393
+    second: TX Village Props 1_118
+  - first:
+      213: -7779542855177235748
+    second: TX Village Props 1_119
+  - first:
+      213: 4025441019574340087
+    second: TX Village Props 1_120
+  - first:
+      213: -4903250457572735163
+    second: TX Village Props 1_121
+  - first:
+      213: -7889731001446904075
+    second: TX Village Props 1_122
+  - first:
+      213: 2134659696534113055
+    second: TX Village Props 1_123
+  - first:
+      213: 5301157017899756322
+    second: TX Village Props 1_124
+  - first:
+      213: -5702196018857731465
+    second: TX Village Props 1_125
+  - first:
+      213: 2174399693721914781
+    second: TX Village Props 1_126
+  - first:
+      213: 4822299222406746352
+    second: TX Village Props 1_127
+  - first:
+      213: -6670480956258411645
+    second: TX Village Props 1_128
+  - first:
+      213: 1125764573139613213
+    second: TX Village Props 1_129
+  - first:
+      213: -5319718261987010272
+    second: TX Village Props 1_130
+  - first:
+      213: -7726084948218229538
+    second: TX Village Props 1_131
+  - first:
+      213: 21563841916630004
+    second: TX Village Props 1_132
+  - first:
+      213: 9209234947890693980
+    second: TX Village Props 1_133
+  - first:
+      213: 7970089218010247404
+    second: TX Village Props 1_134
+  - first:
+      213: 1043358247143039301
+    second: TX Village Props 1_135
+  - first:
+      213: 1433045991155241013
+    second: TX Village Props 1_136
+  - first:
+      213: -8694773827450390807
+    second: TX Village Props 1_137
+  - first:
+      213: -2194191463804034173
+    second: TX Village Props 1_138
+  - first:
+      213: 6069074919098779297
+    second: TX Village Props 1_139
+  - first:
+      213: 4501366070437168421
+    second: TX Village Props 1_140
+  - first:
+      213: -898658246757284309
+    second: TX Village Props 1_141
+  - first:
+      213: -1222231990468777288
+    second: TX Village Props 1_142
+  - first:
+      213: 5629132254813371039
+    second: TX Village Props 1_143
+  - first:
+      213: -5212459575089637248
+    second: TX Village Props 1_144
+  - first:
+      213: 5513763812834125427
+    second: TX Village Props 1_145
+  - first:
+      213: 3241286032905541021
+    second: TX Village Props 1_146
+  - first:
+      213: 6746037740631831266
+    second: TX Village Props 1_147
+  - first:
+      213: 5006134079557861011
+    second: TX Village Props 1_148
+  - first:
+      213: 327214375860446508
+    second: TX Village Props 1_149
+  - first:
+      213: -4659311727660639895
+    second: TX Village Props 1_150
+  - first:
+      213: -5915292030307685328
+    second: TX Village Props 1_151
+  - first:
+      213: -2676843917261170549
+    second: TX Village Props 1_152
+  - first:
+      213: 5376696829881716609
+    second: TX Village Props 1_153
+  - first:
+      213: 8584302443533925444
+    second: TX Village Props 1_154
+  - first:
+      213: -6780992394561272777
+    second: TX Village Props 1_155
+  - first:
+      213: -7459799887647082233
+    second: TX Village Props 1_156
+  - first:
+      213: 1015646063672792723
+    second: TX Village Props 1_157
+  - first:
+      213: 3458354702362504812
+    second: TX Village Props 1_158
+  - first:
+      213: -7959848941934872009
+    second: TX Village Props 1_159
+  - first:
+      213: -5153895029985908911
+    second: TX Village Props 1_160
+  - first:
+      213: 3488613852885444605
+    second: TX Village Props 1_161
+  - first:
+      213: 6651570845115608125
+    second: TX Village Props 1_162
+  - first:
+      213: -5331239492059318757
+    second: TX Village Props 1_163
+  - first:
+      213: -4127767437028093454
+    second: TX Village Props 1_164
+  - first:
+      213: 9221232853957681421
+    second: TX Village Props 1_165
+  - first:
+      213: -2837436696087724728
+    second: TX Village Props 1_166
+  - first:
+      213: -3887984232808375412
+    second: TX Village Props 1_167
+  - first:
+      213: -3616472333730648288
+    second: TX Village Props 1_168
+  - first:
+      213: 1438234792337067294
+    second: TX Village Props 1_169
+  - first:
+      213: 39799083564753641
+    second: TX Village Props 1_170
+  - first:
+      213: 7693811190060373681
+    second: TX Village Props 1_171
+  - first:
+      213: 1450215843398403374
+    second: TX Village Props 1_172
+  - first:
+      213: -1625968192255910024
+    second: TX Village Props 1_173
+  - first:
+      213: 1521163916502671035
+    second: TX Village Props 1_174
+  - first:
+      213: 6674306203450897939
+    second: TX Village Props 1_175
+  - first:
+      213: 5375634753599101598
+    second: TX Village Props 1_176
+  - first:
+      213: -1454376388251969291
+    second: TX Village Props 1_177
+  - first:
+      213: 5409213871803845854
+    second: TX Village Props 1_178
+  - first:
+      213: 5471927180233430279
+    second: TX Village Props 1_179
+  - first:
+      213: -2107221681946381611
+    second: TX Village Props 1_180
+  - first:
+      213: 253108680836307491
+    second: TX Village Props 1_181
+  - first:
+      213: -4576830932520071324
+    second: TX Village Props 1_182
+  - first:
+      213: -2443051723608038671
+    second: TX Village Props 1_183
+  - first:
+      213: -1854534666179411091
+    second: TX Village Props 1_184
+  - first:
+      213: 3015391314891872098
+    second: TX Village Props 1_185
+  - first:
+      213: 2516964185874955746
+    second: TX Village Props 1_186
+  - first:
+      213: -4391231263413259379
+    second: TX Village Props 1_187
+  - first:
+      213: 3503743431784888965
+    second: TX Village Props 1_188
+  - first:
+      213: 2949542242069299437
+    second: TX Village Props 1_189
+  - first:
+      213: 9062450702976771163
+    second: TX Village Props 1_190
+  - first:
+      213: 4277869837428696273
+    second: TX Village Props 1_191
+  - first:
+      213: -7998034314108815777
+    second: TX Village Props 1_192
+  - first:
+      213: 7352715059812729493
+    second: TX Village Props 1_193
+  - first:
+      213: -1367367854421519004
+    second: TX Village Props 1_194
+  - first:
+      213: 3000306545186511295
+    second: TX Village Props 1_195
+  - first:
+      213: 1504467100784624948
+    second: TX Village Props 1_196
+  - first:
+      213: 8180366567752421553
+    second: TX Village Props 1_197
+  - first:
+      213: 5297551711819405799
+    second: TX Village Props 1_198
+  - first:
+      213: -8199376310956752835
+    second: TX Village Props 1_199
+  - first:
+      213: 6277421727912824084
+    second: TX Village Props 1_200
+  - first:
+      213: -2188546814072719295
+    second: TX Village Props 1_201
+  - first:
+      213: 5944994478421986028
+    second: TX Village Props 1_202
+  - first:
+      213: -5576788587222463687
+    second: TX Village Props 1_203
+  - first:
+      213: -198328133645892714
+    second: TX Village Props 1_204
+  - first:
+      213: 7340972280227710253
+    second: TX Village Props 1_205
+  - first:
+      213: 5792664943687265120
+    second: TX Village Props 1_206
+  - first:
+      213: 3538749038449056090
+    second: TX Village Props 1_207
+  - first:
+      213: -4228962327882442512
+    second: TX Village Props 1_208
+  - first:
+      213: -4056985331765743804
+    second: TX Village Props 1_209
+  - first:
+      213: 6128003595479890835
+    second: TX Village Props 1_210
+  - first:
+      213: -27020467798265067
+    second: TX Village Props 1_211
+  - first:
+      213: -651963774511319571
+    second: TX Village Props 1_212
+  - first:
+      213: 6486931263058460413
+    second: TX Village Props 1_213
+  - first:
+      213: -1527683237415053234
+    second: TX Village Props 1_214
+  - first:
+      213: -1588503084430292778
+    second: TX Village Props 1_215
+  - first:
+      213: 4899346047223508375
+    second: TX Village Props 1_216
+  - first:
+      213: -5088956325092500366
+    second: TX Village Props 1_217
+  - first:
+      213: -3659398821689869965
+    second: TX Village Props 1_218
+  - first:
+      213: -2750210726478902930
+    second: TX Village Props 1_219
+  - first:
+      213: 4886258333146177455
+    second: TX Village Props 1_220
+  - first:
+      213: 3600162050700316254
+    second: TX Village Props 1_221
+  - first:
+      213: -5369397576051915828
+    second: TX Village Props 1_222
+  - first:
+      213: 707556691572865276
+    second: TX Village Props 1_223
+  - first:
+      213: 7129674724631445643
+    second: TX Village Props 1_224
+  - first:
+      213: -1601294541957189595
+    second: TX Village Props 1_225
+  - first:
+      213: 7187640787185029725
+    second: TX Village Props 1_226
+  - first:
+      213: -8932646376736698618
+    second: TX Village Props 1_227
+  - first:
+      213: 6027645666921749778
+    second: TX Village Props 1_228
+  - first:
+      213: -525899578903708350
+    second: TX Village Props 1_229
+  - first:
+      213: 4508287664580188400
+    second: TX Village Props 1_230
+  - first:
+      213: 6424505073582132835
+    second: TX Village Props 1_231
+  - first:
+      213: 4031313726817523482
+    second: TX Village Props 1_232
+  - first:
+      213: 432909216012372410
+    second: TX Village Props 1_233
+  - first:
+      213: -3909204324754739649
+    second: TX Village Props 1_234
+  - first:
+      213: 8695509417555174740
+    second: TX Village Props 1_235
+  - first:
+      213: 173202676580885716
+    second: TX Village Props 1_236
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Village Props 1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f6af0556977dd0800000000000000
+      internalID: -2488354977019923846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece28838061a313d0800000000000000
+      internalID: -3237066271253582130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b965041c0c5e00a20800000000000000
+      internalID: 3026671565631674011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b767afa475e42c6f0800000000000000
+      internalID: -665883658070362501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb2522b3b63ddf0800000000000000
+      internalID: -156663660304744868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65422e1c122190d0800000000000000
+      internalID: -3417913138037504662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acf145aca8d76770800000000000000
+      internalID: 8604083849133161641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53743c4bb5538e2a0800000000000000
+      internalID: -6708052976977361099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54844948fa05ae350800000000000000
+      internalID: 6046734164472121413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ca387381b1a9c0800000000000000
+      internalID: -3917655022619672137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef633a27613f7d20800000000000000
+      internalID: 3278393372908417007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606723b8ed94ffcb0800000000000000
+      internalID: -4828059055350974970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12952cdd46ecd9e20800000000000000
+      internalID: 3359067829700811041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3039fc54e35bd5f80800000000000000
+      internalID: -8116131674387934461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd7fc9336dfd8fe0800000000000000
+      internalID: -1185012524315083298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58073376e9e73a0800000000000000
+      internalID: -6665716232379923006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad8c1b399de030f0800000000000000
+      internalID: -1139149463347229280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39371263920e0e0800000000000000
+      internalID: -2242747301964311554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90091eaf2b6cd9800800000000000000
+      internalID: 620870795662561289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89960a951f7cf18d0800000000000000
+      internalID: -2873358197834356328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934fcda16d436a80800000000000000
+      internalID: -8474844991857933410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa32a77f89e52de0800000000000000
+      internalID: -1358422910185620822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6254c8bab9e85890800000000000000
+      internalID: -7468962993820904852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2385bb8cdab25b0800000000000000
+      internalID: -5392025051197852974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2125d0368bb030800000000000000
+      internalID: 3511547878757706973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958b6bea9e3641c0800000000000000
+      internalID: -4519856340924136044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_26
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffdfb627230cd80800000000000000
+      internalID: -8232524651813798073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b969a24ea69b08870800000000000000
+      internalID: 8683143950315984539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 905
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45255eb895a1ccae0800000000000000
+      internalID: -1527817201683967404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75322eb65d17b7b0800000000000000
+      internalID: -5208662185636383363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bafafc3a8c2c740800000000000000
+      internalID: 5170915928064371581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c0369aa1c76d4b0800000000000000
+      internalID: -5416005047913608157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72585c1dcc8f360800000000000000
+      internalID: 7203732805313177560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364bd0d67c3c9eb0800000000000000
+      internalID: -4711824629128542671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0056491450cfb0e70800000000000000
+      internalID: 9082630173028017408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d55512bf3f886270800000000000000
+      internalID: 8243996621635147225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6d4b0aa84630e0800000000000000
+      internalID: -2290563465300055070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed81174e8579bc80800000000000000
+      internalID: -8306478783770030615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8f5d1015cf6ab70800000000000000
+      internalID: 8910086337652455627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c65704a65cbd83d0800000000000000
+      internalID: -3202696679685400896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf31540e3e60a8c20800000000000000
+      internalID: 3209385260244866043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe526cc0fd1e84fe0800000000000000
+      internalID: -1204464552213338641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d50c349d33811a0800000000000000
+      internalID: -6838659025924498134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589b8ccd2d5ba0a0800000000000000
+      internalID: -6869294355336947618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64e9e7f6941c890800000000000000
+      internalID: -7439584366224849163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c5b7d21947df910800000000000000
+      internalID: 1872781186938133628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90315eb5d5857fdb0800000000000000
+      internalID: -4758237323296697591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed30c8085a9f98340800000000000000
+      internalID: 4866695361572111326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839c2f11dd12db6c0800000000000000
+      internalID: -4126104450228893384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4e1c76e4a8f730800000000000000
+      internalID: 4033154776142073065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16275e949504ff690800000000000000
+      internalID: -7566258096723103135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_51
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1575df2dfa194ec0800000000000000
+      internalID: -3582302353864952549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ba5d97543fc3f0800000000000000
+      internalID: -878425851407191519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcfc9a983b08c980800000000000000
+      internalID: -8518546357431239472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe7b1137168c7580800000000000000
+      internalID: -8828033735386759436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_55
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c15329bd4aa250800000000000000
+      internalID: 5956658914707752938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cda2a0a29baf4f40800000000000000
+      internalID: 5714975098405039555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_57
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 805
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeed7673a0d69300800000000000000
+      internalID: 258623429106593513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2db4c97f223f560800000000000000
+      internalID: 7346253864045892328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc499b690cf84f0800000000000000
+      internalID: -824228453194347739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd22ada124f1f01f0800000000000000
+      internalID: -1076607417139453217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7afd7ea5ebaae70800000000000000
+      internalID: 9127316892466259915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f3d551094b5d10800000000000000
+      internalID: 2115364720064327883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ff2827f0788c710800000000000000
+      internalID: 1713768158629920646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ea8731d76b7820800000000000000
+      internalID: 2917039331930203714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e8e9e0d4945160800000000000000
+      internalID: 7013394144721167387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a238229938c450800000000000000
+      internalID: 6109196194430493381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad6dcf02b2a32cb0800000000000000
+      internalID: -4889885884741227099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45191aa1b05728150800000000000000
+      internalID: 5873385554596434260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ef24c4411a65c90800000000000000
+      internalID: -7181375447244800421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33d68eda47a8fe70800000000000000
+      internalID: 9149246583005958974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beba4059c0ced140800000000000000
+      internalID: 4746443028163116729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b313fe67c9f0e70800000000000000
+      internalID: 9083651008062634865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9afaedb3ec73240800000000000000
+      internalID: 4771509086756776359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe7d582ba0b5fe0800000000000000
+      internalID: -1199353113898127473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb4ec0fdbce18e0800000000000000
+      internalID: -1720713848754488470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_76
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052dc9d9d3472dd20800000000000000
+      internalID: 3301829284802122320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8cd336dfb68240800000000000000
+      internalID: 4793729780096470247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b89df75492c2760800000000000000
+      internalID: 7434362463356291965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_79
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c659d4f448e3030800000000000000
+      internalID: 3476361438515522697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_80
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045b10aff3b1ad40800000000000000
+      internalID: 5593950122655044621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_81
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 705
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e98354cde82f660800000000000000
+      internalID: 7418148612937915976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b799fdaea7530930800000000000000
+      internalID: 4108223692846766001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f1609fcaf799a0800000000000000
+      internalID: -6226232190428907592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ace2353e5cc6310800000000000000
+      internalID: 1399711164349205050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb46627bdbba8ba60800000000000000
+      internalID: 7690085195045037247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb44547ee39519b0800000000000000
+      internalID: -5110015549818778689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfec63cbecbe3c40800000000000000
+      internalID: 5494036316220616643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a883147c5e24bfb0800000000000000
+      internalID: -4633027142038091609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a6dd6339ee2070800000000000000
+      internalID: 8083654788272006574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fbb3190ed09cd00800000000000000
+      internalID: 993340450972352365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1717a64333a6f17c0800000000000000
+      internalID: -4098440367728594575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6812447b12a606530800000000000000
+      internalID: 3846190774815564166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b666e11e3e75d0800000000000000
+      internalID: -3062942449964501202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ff4452fc822510800000000000000
+      internalID: 1522934596429149903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758cc92bd9c74f8b0800000000000000
+      internalID: -5119329859665082281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d102bf276a50180800000000000000
+      internalID: -9149724055163626172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91342c804e74370800000000000000
+      internalID: 8306858763978217905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_98
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90dcd48541445760800000000000000
+      internalID: 7445647850787885211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_99
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0866d67b7f43c55f0800000000000000
+      internalID: -766679598020860288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266e8a771f299a00800000000000000
+      internalID: 763693389702915623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_101
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16421ba657da1cef0800000000000000
+      internalID: -89599797757926303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646ca3da11f11ecf0800000000000000
+      internalID: -224864345610598842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_103
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453358f6b4207760800000000000000
+      internalID: 7453497751567021380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84948df50410013c0800000000000000
+      internalID: -4391008260688688824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_105
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ddf7a73f2a5bf0800000000000000
+      internalID: -334903306197544847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_106
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece40cc374a7a3c30800000000000000
+      internalID: 4339915637305396942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_107
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c256a6d82524a5f00800000000000000
+      internalID: 1106269580800189740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_108
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600814dba5efe5320800000000000000
+      internalID: 2548754104813977606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_109
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 605
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a88e61f1be24b60800000000000000
+      internalID: 7728998429282044569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b711b55f75d610800000000000000
+      internalID: 1645361244893853280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659b95f798ac45d0800000000000000
+      internalID: -3076899074786749079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf37b5fd914776d0800000000000000
+      internalID: -2992851280676306994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824756d174344f320800000000000000
+      internalID: 2590769658359804968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad73b09845682d140800000000000000
+      internalID: 4743001055209142234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4551878d13558d970800000000000000
+      internalID: 8779861146132288852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5048276dedbd850800000000000000
+      internalID: 6402956307862914546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34495f177a56c0c0800000000000000
+      internalID: -4555854505365126085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9024e196175b90f0800000000000000
+      internalID: -1109197128768151393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29b32bdf2890490800000000000000
+      internalID: -7779542855177235748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_120
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c304974d3dd730800000000000000
+      internalID: 4025441019574340087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470b97ffa724fbb0800000000000000
+      internalID: -4903250457572735163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fece5da47b028290800000000000000
+      internalID: -7889731001446904075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_123
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b42402fa5df9d10800000000000000
+      internalID: 2134659696534113055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22beb76983e719940800000000000000
+      internalID: 5301157017899756322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_125
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a9650beeabdd0b0800000000000000
+      internalID: -5702196018857731465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_126
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d430040050d2e10800000000000000
+      internalID: 2174399693721914781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f05238d79f3ce240800000000000000
+      internalID: 4822299222406746352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_128
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b953979e0bd63a0800000000000000
+      internalID: -6670480956258411645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_129
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16b4ba2ae48f9f00800000000000000
+      internalID: 1125764573139613213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_130
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291b110d609c26b0800000000000000
+      internalID: -5319718261987010272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_131
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc5f49cae67c490800000000000000
+      internalID: -7726084948218229538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_132
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fe61333c9c4000800000000000000
+      internalID: 21563841916630004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_133
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57432a7466cdcf70800000000000000
+      internalID: 9209234947890693980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0fbab9ae17b9e60800000000000000
+      internalID: 7970089218010247404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_135
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5416f6e3cc0ca7e00800000000000000
+      internalID: 1043358247143039301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_136
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 505
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301b918cb333e310800000000000000
+      internalID: 1433045991155241013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6b4745545f55780800000000000000
+      internalID: -8694773827450390807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38324ce2d7aac81e0800000000000000
+      internalID: -2194191463804034173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a68d1ccb7fa93450800000000000000
+      internalID: 6069074919098779297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52547608790187e30800000000000000
+      internalID: 4501366070437168421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b268e8bf5135783f0800000000000000
+      internalID: -898658246757284309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba6df6fa72c90fe0800000000000000
+      internalID: -1222231990468777288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a38d916f1be1e40800000000000000
+      internalID: 5629132254813371039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_144
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088d2bc12af99a7b0800000000000000
+      internalID: -5212459575089637248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a16f79f2d48c40800000000000000
+      internalID: 5513763812834125427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9515ce497c5bfc20800000000000000
+      internalID: 3241286032905541021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_147
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e23db3459dbe9d50800000000000000
+      internalID: 6746037740631831266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_148
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ef506fb6c597540800000000000000
+      internalID: 5006134079557861011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_149
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25209ebdbf7a8400800000000000000
+      internalID: 327214375860446508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_150
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d9f67bacc65fb0800000000000000
+      internalID: -4659311727660639895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cafce2d39a8eda0800000000000000
+      internalID: -5915292030307685328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889b78c3a0f9dad0800000000000000
+      internalID: -2676843917261170549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_153
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8112a74ddd9a40800000000000000
+      internalID: 5376696829881716609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_154
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7b5f3791912770800000000000000
+      internalID: 8584302443533925444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734cc89285315e1a0800000000000000
+      internalID: -6780992394561272777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_156
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709fb41a687797890800000000000000
+      internalID: -7459799887647082233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_157
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3969dbab6bc481e00800000000000000
+      internalID: 1015646063672792723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e6e95574b8eff20800000000000000
+      internalID: 3458354702362504812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_159
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af3367f8fe88190800000000000000
+      internalID: -7959848941934872009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_160
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157e908d6cfa978b0800000000000000
+      internalID: -5153895029985908911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_161
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76eb3d0db0a6030800000000000000
+      internalID: 3488613852885444605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_162
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce57d21702f4c50800000000000000
+      internalID: 6651570845115608125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_163
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1635479de1a306b0800000000000000
+      internalID: -5331239492059318757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11488c26937b6c0800000000000000
+      internalID: -4127767437028093454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_165
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d012f4bac6668ff70800000000000000
+      internalID: 9221232853957681421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_166
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7809bb566f98d0800000000000000
+      internalID: -2837436696087724728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_167
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 405
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b132f80fa1b0ac0800000000000000
+      internalID: -3887984232808375412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe4f7c295bfcdc0800000000000000
+      internalID: -3616472333730648288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dcbdc6ce2a5f310800000000000000
+      internalID: 1438234792337067294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2634e3e056d8000800000000000000
+      internalID: 39799083564753641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b659788388e5ca60800000000000000
+      internalID: 7693811190060373681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25c76140a3302410800000000000000
+      internalID: 1450215843398403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_173
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f908c3b866f69e0800000000000000
+      internalID: -1625968192255910024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe9848c5824c1510800000000000000
+      internalID: 1521163916502671035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31670ea4126ef9c50800000000000000
+      internalID: 6674306203450897939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad48ab3571a9a40800000000000000
+      internalID: 5375634753599101598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89688616401dbe0800000000000000
+      internalID: -1454376388251969291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_178
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edccbfe6b53611b40800000000000000
+      internalID: 5409213871803845854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7055e9667c030fb40800000000000000
+      internalID: 5471927180233430279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_180
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones:
+      - name: bone_1
+        position: {x: 1.4391632, y: 1.4893188, z: 0}
+        rotation: {x: 0, y: 0, z: -0.021261973, w: 0.999774}
+        length: 1.0645611
+        parentId: -1
+      - name: bone_2
+        position: {x: 1.0645678, y: 0.000006782885, z: 0}
+        rotation: {x: 0, y: 0, z: 0.021261973, w: 0.999774}
+        length: 0.9730606
+        parentId: 0
+      - name: bone_3
+        position: {x: 0.9730606, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0, w: 1}
+        length: 0.9277954
+        parentId: 1
+      - name: bone_4
+        position: {x: 0.9277954, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: -0.021723032, w: 0.999764}
+        length: 1.041938
+        parentId: 2
+      - name: bone_5
+        position: {x: 1.0419343, y: -0.0000118912385, z: 0}
+        rotation: {x: 0, y: 0, z: 0.042974647, w: 0.9990762}
+        length: 1.0645611
+        parentId: 3
+      - name: bone_6
+        position: {x: 1.0645658, y: -0.000008954627, z: 0}
+        rotation: {x: 0, y: 0, z: -0.032610834, w: 0.99946815}
+        length: 0.9959614
+        parentId: 4
+      - name: bone_7
+        position: {x: 0.9959566, y: -0.00001809942, z: 0}
+        rotation: {x: 0, y: 0, z: 0.022211432, w: 0.9997533}
+        length: 1.0411849
+        parentId: 5
+      - name: bone_8
+        position: {x: 1.041187, y: -0.0000037491104, z: 0}
+        rotation: {x: 0, y: 0, z: 0.011865334, w: 0.9999296}
+        length: 0.99674165
+        parentId: 6
+      spriteID: 5d2b5987b05a1c2e0800000000000000
+      internalID: -2107221681946381611
+      vertices:
+      - {x: 11, y: 3}
+      - {x: 5.9990005, y: 3}
+      - {x: 1, y: 3}
+      - {x: 0, y: 1.9989929}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      - {x: 11, y: 0}
+      - {x: 2.1414032, y: 1.6237488}
+      - {x: 9.314896, y: 1.6535645}
+      - {x: 4.6771317, y: 1.509491}
+      - {x: 7.22155, y: 1.6036987}
+      - {x: 8.499496, y: 3}
+      - {x: 3.4994965, y: 3}
+      - {x: 4.5, y: 0}
+      - {x: 6.75, y: 0}
+      - {x: 2.25, y: 0}
+      - {x: 5.625, y: 0}
+      - {x: 3.375, y: 0}
+      - {x: 6.1875, y: 0}
+      - {x: 4.7492523, y: 3}
+      - {x: 11, y: 1.5}
+      indices: 0f00000004000000070000000b0000000000000008000000050000000a00000008000000000000001400000008000000080000000a0000000b0000000a00000009000000010000000b0000000a000000010000000a0000000e000000120000000800000006000000050000000a000000050000000e000000080000001400000006000000090000000a00000012000000070000000400000003000000020000000c0000000700000013000000090000000c000000070000000c0000000900000007000000030000000200000011000000070000000900000007000000110000000f000000100000000d00000009000000090000000d00000011000000130000000100000009000000120000001000000009000000
+      edges:
+      - {x: 1, y: 11}
+      - {x: 2, y: 12}
+      - {x: 3, y: 2}
+      - {x: 4, y: 3}
+      - {x: 5, y: 14}
+      - {x: 6, y: 5}
+      - {x: 0, y: 20}
+      - {x: 11, y: 0}
+      - {x: 12, y: 19}
+      - {x: 13, y: 17}
+      - {x: 14, y: 18}
+      - {x: 15, y: 4}
+      - {x: 16, y: 13}
+      - {x: 17, y: 15}
+      - {x: 18, y: 16}
+      - {x: 19, y: 1}
+      - {x: 20, y: 6}
+      weights:
+      - weight[0]: 0.99999994
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 7
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.72490984
+        weight[1]: 0.27509013
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 3
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.99999994
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7744023
+        weight[1]: 0.22559774
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 7
+        boneIndex[1]: 6
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 7
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 7
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 3
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 5
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.51080453
+        weight[1]: 0.4891955
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 7
+        boneIndex[1]: 6
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5173045
+        weight[1]: 0.4826955
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.44941345
+        weight[1]: 0.43261307
+        weight[2]: 0.11797351
+        weight[3]: 0
+        boneIndex[0]: 3
+        boneIndex[1]: 2
+        boneIndex[2]: 4
+        boneIndex[3]: 0
+      - weight[0]: 0.44056433
+        weight[1]: 0.38781482
+        weight[2]: 0.17162077
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 5
+        boneIndex[2]: 6
+        boneIndex[3]: 0
+      - weight[0]: 0.60901064
+        weight[1]: 0.39098936
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.73053545
+        weight[1]: 0.26946455
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 3
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.51382416
+        weight[1]: 0.48617584
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 2
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.71191794
+        weight[1]: 0.28808206
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 5
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.462254
+        weight[1]: 0.3370135
+        weight[2]: 0.20073256
+        weight[3]: 0
+        boneIndex[0]: 3
+        boneIndex[1]: 2
+        boneIndex[2]: 4
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 7
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: TX Village Props 1_181
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad0d21109338300800000000000000
+      internalID: 253108680836307491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0f161484db70c0800000000000000
+      internalID: -4576830932520071324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_183
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ef66b669881ed0800000000000000
+      internalID: -2443051723608038671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_184
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d638abefb8e5346e0800000000000000
+      internalID: -1854534666179411091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2679de6bc62d8d920800000000000000
+      internalID: 3015391314891872098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_186
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf473779d0ee220800000000000000
+      internalID: 2516964185874955746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_187
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b9a18e663f03c0800000000000000
+      internalID: -4391231263413259379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_188
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a75ab661ccf9030800000000000000
+      internalID: 3503743431784888965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_189
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0cc84ba01eee820800000000000000
+      internalID: 2949542242069299437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_190
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546b6146ea44cd70800000000000000
+      internalID: 9062450702976771163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_191
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4ab47b3fb0e5b30800000000000000
+      internalID: 4277869837428696273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_192
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b82eaa26410190800000000000000
+      internalID: -7998034314108815777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_193
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5928dcaf3671a0660800000000000000
+      internalID: 7352715059812729493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_194
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465dae75e22260de0800000000000000
+      internalID: -1367367854421519004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_195
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91f1318ea33a920800000000000000
+      internalID: 3000306545186511295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_196
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 305
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435878e6bd0f0e410800000000000000
+      internalID: 1504467100784624948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05d5b4d00868170800000000000000
+      internalID: 8180366567752421553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9124ad63fa48940800000000000000
+      internalID: 5297551711819405799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d308ba5ffa6f53e80800000000000000
+      internalID: -8199376310956752835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d00956dc1ed1750800000000000000
+      internalID: 6277421727912824084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_201
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148f1ec9448b0a1e0800000000000000
+      internalID: -2188546814072719295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea400eeafcd08250800000000000000
+      internalID: 5944994478421986028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0727b3544b92b0800000000000000
+      internalID: -5576788587222463687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693021dfc956f3df0800000000000000
+      internalID: -198328133645892714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_205
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2546fc056f50e560800000000000000
+      internalID: 7340972280227710253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_206
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b665f431ea36050800000000000000
+      internalID: 5792664943687265120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_207
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d20a50892c1130800000000000000
+      internalID: 3538749038449056090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_208
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8de063b25bf45c0800000000000000
+      internalID: -4228962327882442512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_209
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe129e551b2b7c0800000000000000
+      internalID: -4056985331765743804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_210
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b35e27dca0b0550800000000000000
+      internalID: 6128003595479890835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_211
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5133837170100aff0800000000000000
+      internalID: -27020467798265067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_212
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de574ddb662c3f6f0800000000000000
+      internalID: -651963774511319571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_213
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb9f05d95360a50800000000000000
+      internalID: 6486931263058460413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_214
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489e8880349ccae0800000000000000
+      internalID: -1527683237415053234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_215
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88be76cd084f9e0800000000000000
+      internalID: -1588503084430292778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_216
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da878a549fdf340800000000000000
+      internalID: 4899346047223508375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_217
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c526d4f256069b0800000000000000
+      internalID: -5088956325092500366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_218
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37931b5f824373dc0800000000000000
+      internalID: -3659398821689869965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_219
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6981ce5ae945d9d0800000000000000
+      internalID: -2750210726478902930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_220
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf58f3c01a7fc340800000000000000
+      internalID: 4886258333146177455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_221
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e85d58f4856f130800000000000000
+      internalID: 3600162050700316254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_222
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305955a511c75b0800000000000000
+      internalID: -5369397576051915828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b6abef0fb1d900800000000000000
+      internalID: 707556691572865276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_224
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 205
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800dbd2361b1f260800000000000000
+      internalID: 7129674724631445643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520bedd191f07c9e0800000000000000
+      internalID: -1601294541957189595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 105
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d545d631afb360800000000000000
+      internalID: 7187640787185029725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_227
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 105
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fcd62927dd80480800000000000000
+      internalID: -8932646376736698618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_228
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 105
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1bc85ccf76a350800000000000000
+      internalID: 6027645666921749778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_229
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 105
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dbaeb8e11a3b8f0800000000000000
+      internalID: -525899578903708350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_230
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8d398beb7a09e30800000000000000
+      internalID: 4508287664580188400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_231
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 5
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ece80735d682950800000000000000
+      internalID: 6424505073582132835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_232
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a175d19c97a12f730800000000000000
+      internalID: 4031313726817523482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props 1_233
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 5
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9096863a0020600800000000000000
+      internalID: 432909216012372410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 13a6e8642e5ca22428475a9f0dd602ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
